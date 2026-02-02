@@ -1,0 +1,7 @@
+{
+  "name": "bluesearch-proxy",
+  "main": "worker.js",
+  "compatibility_date": "2025-01-01",
+  "usage_model": "bundled",
+  "workers_dev": true
+}
